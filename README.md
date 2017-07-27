@@ -1,4 +1,4 @@
-# server-setup
+# Setup a aws E2 Ubuntu 16.04 Ruby
 Setup a aws E2 Ubuntu 16.04 server with
 Ruby, Ruby on Rails, NodJS, yarn, PostgreSQL,
 Nginx, Passenger, imagemagick, jpegoptim, optipng
